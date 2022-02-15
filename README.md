@@ -14,7 +14,7 @@ Here are some facts about me!
 
 <p>
   <a href="https://github.com/PrabeshPP/PrabeshPP" >
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=PrabeshPP&hide=python,c++,html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=PrabeshPP&hide=python,c++&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
   </a>
   
 
