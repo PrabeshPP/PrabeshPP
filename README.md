@@ -12,6 +12,9 @@ Here are some facts about me!
 -  Pronouns:He/Him.
 - ⚡ Fun fact:I am a full time stock trader!
 
+
+![Prabesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrabeshPP&count_private=true&theme=synthwave)
+
 <p>
   <a href="https://github.com/PrabeshPP/PrabeshPP" >
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=PrabeshPP&hide=python,c++&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
