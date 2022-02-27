@@ -5,8 +5,7 @@
 Here are some facts about me!
 
 - 🔭 I’m currently working on flutter project.
-- 🌱 I’m currently learning solidity.
-- 🤔 I’m looking for help with flutter_bloc or statemanagement in flutter.
+- 🌱 I’m currently learning DSA.
 - 💬 Ask me about flutter and dart.
 - 📫 How to reach me: prabesh.bista1000@gmail.com
 -  Pronouns:He/Him.
