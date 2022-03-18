@@ -13,6 +13,7 @@ Here are some facts about me!
 
 
 ![Prabesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrabeshPP&count_private=true&theme=synthwave)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrabeshPP&theme=dark)
 
 
 
