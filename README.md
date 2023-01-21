@@ -30,6 +30,8 @@ Here are some facts about me!
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"  alt="node" width="40" height="40" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" alt="postgresql" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="postgresql" width="40" height="40" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
+  
  
 
  <div/>
