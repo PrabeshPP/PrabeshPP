@@ -7,7 +7,6 @@ Here are some facts about me!
 - 🔭 I’m currently working on flutter project.
 - 🌱 I’m currently learning DSA.
 - 💬 Ask me about flutter and dart.
-- ⚡ Fun fact:I am a full time stock trader!
 
 
 ![Prabesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrabeshPP&count_private=true&theme=synthwave)
